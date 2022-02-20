@@ -1,0 +1,15 @@
+Client ID:
+e1dc051fbcb7d63
+
+Client secret:
+3dfd52eb2c2920667d05a24a7b9d1f165f6426c9
+
+
+
+http://192.168.0.104:8080/oauth2/callback#
+access_token=9c90b0723d7670de60c0843ebffadaeca6d50066
+&expires_in=315360000
+&token_type=bearer
+&refresh_token=75633b47820a71f244b87649a3af0a09382ebc26
+&account_username=myvueapp3
+&account_id=159781637
